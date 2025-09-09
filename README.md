@@ -16,10 +16,7 @@ cafe-sales-analysis/
 ├── dashboard/
 │   └── Cafe-Sales-Dashboard.jpeg     # Tableau visualization
 │
-├── docs/
-│   └── analysis-report.md            # Detailed findings
-│
-└── README.md                         # This file
+└── README.md                         # Project Overview and Findings
 ```
 ## 🧹 Data Cleaning Process
 ### 1. Python Analysis
